@@ -1,0 +1,54 @@
+#name{
+
+}
+body{
+    background-image: url(images/darkbckimage.jpeg);
+    background-repeat: repeat;
+}
+#table a{
+    /* margin-bottom: 80%; */
+    margin-left: 320px;
+    text-decoration: none;
+    
+    
+}
+
+.names{
+    background-color: rgb(241, 235, 235);
+    width: 800px;
+    height: 600px;
+    margin-left: 20%;
+}
+.names input{
+    display: block;
+    margin-bottom: 30px;
+    height: 50px;
+    width: 400px;
+    background-color: rgb(247, 235, 239);
+
+    margin-left: 20%;
+    
+}
+#name1 {
+    margin-left: 40%;
+
+}
+#name1 a{
+    text-decoration: none;
+}
+#leaf2{
+    margin-bottom:  90px;
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+    /* align-items: center;
+     */
+     margin-left: 10%;
+     width: 60%;
+}
+th, td {
+    padding: 10px;
+   
+}
